@@ -13,7 +13,7 @@ ig_trait_blessed_by_aesir = {
 	min_approval = happy
 	
 	modifier = {
-		state_loyalists_from_political_movements_mult = 0.05
+		state_loyalists_from_political_movements_mult = 0.1
 	}
 }
 
